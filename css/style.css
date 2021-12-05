@@ -1,0 +1,21 @@
+body{
+  background-color: #4F696A;
+}
+.bgc{
+    margin: 50px auto;
+  
+  width: 60%;
+  height:600px;
+  background-color: #102020;
+
+}
+h1{
+  /* padding: 40px; */
+  
+  text-align: center;
+  font-size: 55px;
+  color: white;
+}
+.yozuv{
+  margin-top: 50px;
+}
